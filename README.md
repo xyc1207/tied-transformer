@@ -1,2 +1,2 @@
-# tied-transformer
-Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+# Tied-transformer
+This is an implementation of the ``Tied Transformer''.
